@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DBCCompany</string>
+    <string name="be_the_first">Seja o primeiro a se inscreve no evento.</string>
+    <string name="people_on_event">%1$1 irão comparecer no evento</string>
+    <string name="check_in">registra-se no evento</string>
+    <string name="loading">Carregando...</string>
+</resources>

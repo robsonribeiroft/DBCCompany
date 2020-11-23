@@ -1,0 +1,8 @@
+include ':base_presentation'
+include ':presentation_event'
+include ':di'
+include ':data_remote'
+include ':domain'
+include ':data'
+include ':app'
+rootProject.name = "DBCCompany"
